@@ -1,0 +1,6 @@
+-How to run it
+-Install django and cv
+-Navigate to kayin folder...
+cd kayin
+python manage.py runserver
+
